@@ -1,0 +1,8 @@
+credentials.txt
+node_modules
+*.iml
+.idea
+changelog.json
+next_version_done.json
+next_version_notdone.json
+backlog.json
